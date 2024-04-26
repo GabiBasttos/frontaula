@@ -16,8 +16,7 @@ O projeto trata-se de uma página na web sobre conteúdos personalizados sobre o
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
-- [Visual Studio Code](https://dbeaver.io/download/)
-- [GitHub](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## :chart_with_upwards_trend: Diagramas
 
